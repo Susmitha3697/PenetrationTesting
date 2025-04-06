@@ -43,3 +43,4 @@ The second module to be developed is a Brute-Force Attack Tool. This module will
 
 **6.** Include options to control the rate of attempts to avoid account lockout or overwhelming the target service.                                                           
 
+**OUTPUT**: <img width="718" alt="Image" src="https://github.com/user-attachments/assets/6a5348fb-03d3-4e0e-945d-48b097a5cc6b" />
